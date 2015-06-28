@@ -32,7 +32,7 @@ npm install -g generator-angulares6
 Finally, initiate the generator:
 
 ```bash
-yo angulares6
+yo angulares6 <ModuleName>
 ```
 
 ### Getting To Know Yeoman
